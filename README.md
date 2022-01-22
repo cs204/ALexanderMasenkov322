@@ -1,2 +1,0 @@
-# ALexanderMasenkov322
-psets
